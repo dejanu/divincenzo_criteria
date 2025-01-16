@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ## Results
 
 * Visualize the circuit to see the quantum operations:
-* Mimic the execution of the circuit using a quantum simulator: The Aer provider
+* Mimic the execution of the circuit using a quantum simulator: The Aer provider see `test_simulator.py`
