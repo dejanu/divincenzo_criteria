@@ -23,3 +23,8 @@ pip install -r requirements.txt
 
 * Visualize the circuit to see the quantum operations:
 * Mimic the execution of the circuit using a quantum simulator: The Aer provider see `test_simulator.py`
+
+
+## Resources
+
+* [IBM stuff](https://learning.quantum.ibm.com/course/basics-of-quantum-information/single-systems#classical-information)
